@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, Welcome to my GitHub profile 👋
+## Heikky Daniel DH. 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=25&pause=1000&color=C5C5C5&center=true&vCenter=true&width=435&lines=Software+Development+Student;Data+Managment;Intermediate+English;Assertive+Communication;Laravel+Developer)](https://git.io/typing-svg)
 
